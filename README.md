@@ -3,5 +3,5 @@
 ## Содержание проекта
 - Methodology.md - методология для разработки витрины
 - webinar.ipynb - ноутбук со скриптами на Spark для сбора витрины и аналитики
-- SparkSessionExample - файл со скриптами для подключения инструментов к Spark (работает только на инфре infrasharing.ru)
+- SparkSessionExample.md - файл со скриптами для подключения инструментов к Spark (работает только на инфре infrasharing https://roadmappers.ru/)
 - data - папка для исходных данных
